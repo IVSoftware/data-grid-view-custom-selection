@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data-grid-view-custom-selection", "data-grid-view-custom-selection\data-grid-view-custom-selection.csproj", "{689FE794-273A-463E-9652-58B12CE42228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689FE794-273A-463E-9652-58B12CE42228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689FE794-273A-463E-9652-58B12CE42228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689FE794-273A-463E-9652-58B12CE42228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689FE794-273A-463E-9652-58B12CE42228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B64C786F-E379-412A-9524-9E8C325B6ED1}
+	EndGlobalSection
+EndGlobal
